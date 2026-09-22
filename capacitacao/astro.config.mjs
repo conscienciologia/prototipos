@@ -34,6 +34,10 @@ export default defineConfig({
 					items: [{ autogenerate: { directory: 'cursos/cosmoetica-ia' } }],
 				},
 				{
+					label: 'Curso interno: Curadoria Colaborativa',
+					items: [{ autogenerate: { directory: 'cursos/curadoria-colaborativa' } }],
+				},
+				{
 					label: 'Recursos',
 					items: [{ autogenerate: { directory: 'recursos' } }],
 				},

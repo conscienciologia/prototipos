@@ -6,9 +6,12 @@ Segunda frente do repositório [`prototipos`](../), ao lado de [`curadoria/`](..
 
 ## O que está publicado
 
-O curso **"Uso Cosmoético da Inteligência Artificial (LLMs)"**, de Túlio Vieira de Souza — conteúdo real, em revisão pelo grupo desde a reunião de 17/09 (ver `curadoria`-style: [ata da reunião](https://docs.google.com/document/d/1luk-brQJmYVWkmbry9FOtXa6dyENUqCDL9TQRo-v1ec)). Não é conteúdo de demonstração inventado.
+Dois cursos, nenhum inventado como demonstração:
 
-Além do curso, dois recursos de referência: o **Código Pessoal de Uso Cosmoético da IA** e o **Banco de Prompts Cosmoéticos**.
+1. **"Uso Cosmoético da Inteligência Artificial (LLMs)"**, de Túlio Vieira de Souza — em revisão pelo grupo desde a reunião de 17/09 (ver [ata da reunião](https://docs.google.com/document/d/1luk-brQJmYVWkmbry9FOtXa6dyENUqCDL9TQRo-v1ec)).
+2. **"Curadoria Colaborativa" (uso interno)** — ensina a usar o [Protocolo de Curadoria](../curadoria/PROTOCOLO.md) na prática (identificadores, modos, papéis, estados) e termina com uma curadoria real, não hipotética. Não duplica `curadoria/PROPOSTA.md`/`PROTOCOLO.md` — linka pra eles como fonte, para não ter duas versões "oficiais" competindo.
+
+Além dos cursos, dois recursos de referência: o **Código Pessoal de Uso Cosmoético da IA** e o **Banco de Prompts Cosmoéticos**.
 
 ## Rodando localmente
 

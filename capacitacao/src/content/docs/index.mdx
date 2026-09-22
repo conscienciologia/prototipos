@@ -12,7 +12,7 @@ hero:
       icon: right-arrow
 ---
 
-import { Card, CardGrid, Aside } from '@astrojs/starlight/components';
+import { Card, CardGrid, LinkCard, Aside } from '@astrojs/starlight/components';
 
 <Aside type="caution" title="O que isto é — e o que não é">
   Isto é um **protótipo demonstrável**, montado para termos algo concreto
@@ -20,6 +20,21 @@ import { Card, CardGrid, Aside } from '@astrojs/starlight/components';
   decisão tomada, e nada aqui está definitivo — inclusive a própria escolha
   de usar GitHub, Astro e este formato de site.
 </Aside>
+
+## Dois cursos
+
+<CardGrid>
+	<LinkCard
+		title="Uso Cosmoético da Inteligência Artificial"
+		description="Treinamento de 90 min — Definologia a Codigologia. Conteúdo já em revisão pelo grupo."
+		href="cursos/cosmoetica-ia/00-abertura/"
+	/>
+	<LinkCard
+		title="Curadoria Colaborativa (uso interno)"
+		description="Como usar o Protocolo de Curadoria na prática — identificadores, modos, papéis e a primeira curadoria de verdade."
+		href="cursos/curadoria-colaborativa/00-abertura/"
+	/>
+</CardGrid>
 
 ## O que tem aqui
 
