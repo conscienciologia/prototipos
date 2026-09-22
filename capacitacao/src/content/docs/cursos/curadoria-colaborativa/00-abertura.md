@@ -33,14 +33,17 @@ e discussão               material a analisar     (com auxílio de IA)      con
 
 Cada ambiente responde a uma pergunta diferente — isso volta na próxima aula.
 
-## Onde fica o Inbox, na prática
+## Onde ficam o Inbox e a pré-curadoria, na prática
 
-O Inbox é uma pasta no Google Drive. O link para ela está fixado na **descrição do grupo de WhatsApp** do CIT/CEAEC — abra o grupo, veja os dados do grupo, e o link estará lá.
+Duas pastas no Google Drive, lado a lado. O link para elas está fixado na **descrição do grupo de WhatsApp** do CIT/CEAEC — abra o grupo, veja os dados do grupo, e o link estará lá.
 
-![Pasta "inbox" dentro da pasta compartilhada do curso no Google Drive](../../../../assets/curadoria/inbox-drive.png)
+![Pastas "inbox" (①) e "pré-curadoria" (②) dentro da pasta compartilhada do curso no Google Drive](../../../../assets/curadoria/inbox-drive.png)
+
+① **inbox** — onde entra material bruto, ainda não analisado (assunto desta aula).
+② **pré-curadoria** — onde entram as fichas já geradas, uma pasta por identificador (`pré-curadoria/CUR-AA-XXXXXX/`). Isso volta com mais detalhe na aula 3.
 
 :::tip[]
-Vale entrar na pasta agora, só para conhecer — não precisa fazer nada nela ainda. Lembre-se: colocar um material lá não é aprovação de nada, é só dizer "isto pode merecer análise" (mais sobre isso na próxima aula).
+Vale entrar nas duas pastas agora, só para conhecer — não precisa fazer nada nelas ainda. Lembre-se: colocar um material no Inbox não é aprovação de nada, é só dizer "isto pode merecer análise" (mais sobre isso na próxima aula).
 :::
 
 ## O princípio que organiza tudo
