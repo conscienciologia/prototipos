@@ -10,6 +10,10 @@ objectives:
 Este curso existe para qualquer pessoa do grupo experimentar, na prática, sugerir uma mudança nos cursos publicados aqui — sem precisar aprender Git antes. As páginas seguintes (Área 1, Área 2 e o Desafio) são para você alterar e testar livremente.
 :::
 
+:::tip[Esta página também é editável]
+Fique livre para editar e aprimorar qualquer seção aqui — é exatamente esse o objetivo desta área de prática.
+:::
+
 ## O que é o GitHub, rapidamente
 
 O GitHub é onde o conteúdo destes cursos vive de verdade — cada aula que você já leu é um arquivo lá. O site que você vê é gerado automaticamente a partir desses arquivos.

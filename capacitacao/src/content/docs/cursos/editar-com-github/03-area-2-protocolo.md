@@ -7,6 +7,10 @@ objectives:
   - Aplicar a mesma mudança de forma consistente em vários arquivos
 ---
 
+:::tip[Esta página também é editável]
+Fique livre para editar e aprimorar qualquer seção aqui — é exatamente esse o objetivo desta área de prática.
+:::
+
 A Área 1 foi uma mudança isolada: um arquivo, uma frase. Esta é mais difícil de propósito — porque `curadoria/PROTOCOLO.md` **não é um arquivo isolado**.
 
 ## Por que isso é mais complexo

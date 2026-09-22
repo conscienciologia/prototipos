@@ -6,6 +6,10 @@ objectives:
   - Conectar a IA que você usa ao GitHub, ou entender a alternativa sem conexão
 ---
 
+:::tip[Esta página também é editável]
+Fique livre para editar e aprimorar qualquer seção aqui — é exatamente esse o objetivo desta área de prática.
+:::
+
 Muitas IAs (Claude, ChatGPT, Gemini...) conseguem se conectar diretamente à sua conta do GitHub, com sua permissão. Conectada, a IA consegue ler os arquivos do repositório e — dependendo da ferramenta — até editar diretamente por você.
 
 ## Se a sua IA tiver essa opção

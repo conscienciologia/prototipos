@@ -7,6 +7,10 @@ objectives:
   - Publicá-lo de verdade no site, sozinho
 ---
 
+:::tip[Esta página também é editável]
+Fique livre para editar e aprimorar qualquer seção aqui — é exatamente esse o objetivo desta área de prática.
+:::
+
 Este é o desafio que fecha a área de prática: fazer, sozinho, o mesmo processo que criou os cursos que você já viu neste site.
 
 Não é um exercício hipotético — se o resultado ficar bom, pode virar um curso real, publicado ao lado dos outros.

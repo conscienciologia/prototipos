@@ -7,6 +7,10 @@ objectives:
   - Conferir o resultado no site publicado
 ---
 
+:::tip[Esta página também é editável]
+Fique livre para editar e aprimorar qualquer seção aqui — é exatamente esse o objetivo desta área de prática.
+:::
+
 Esta é a prática que fecha o curso: uma mudança pequena, de ponta a ponta — da sugestão ao site publicado.
 
 ## Ideias de mudança para começar
