@@ -23,14 +23,10 @@ CUR-26-3RT9WM
 
 `AA` é o ano com dois dígitos. Os 6 caracteres depois são sorteados do alfabeto `0123456789ABCDEFGHJKMNPQRSTVWXYZ` — sem os caracteres `I`, `L`, `O`, `U`, que confundem fácil com `1` e `0` num texto de WhatsApp.
 
-:::tip[Por que não é um número sequencial]
-Um formato tipo `CUR-2026-001` parece mais simples, mas exige que alguém — pessoa ou IA — **consulte todas as fichas existentes** antes de criar uma nova, só para saber qual é o próximo número. Com 6 caracteres sorteados desse alfabeto (mais de 1 bilhão de combinações possíveis), a chance de duas curadorias baterem no mesmo código é desprezível — **não precisa consultar nada antes de gerar um novo**.
-:::
-
-Isso permite referências simples na conversa: *"Estou trabalhando na CUR-26-K7M4QX"*, sem depender de títulos longos ou ambíguos. Um documento pode alimentar mais de uma curadoria, e uma curadoria pode se basear em vários documentos — o identificador pertence ao **processo**, não ao arquivo.
+O identificador nomeia a **pasta** onde a curadoria será organizada — `CUR-26-K7M4QX/` — e também serve para referências simples na conversa: *"Estou trabalhando na CUR-26-K7M4QX"*. Um documento pode alimentar mais de uma curadoria, e uma curadoria pode se basear em vários documentos — o identificador pertence ao **processo**, não ao arquivo.
 
 :::caution[Papel da IA aqui]
-Se não houver identificador, a própria IA pode gerar um na hora — sortear os 6 caracteres e compor `CUR-AA-XXXXXX` com o ano atual. Não precisa checar se já existe.
+Peça para a IA sugerir o identificador. Ela sorteia os 6 caracteres e compõe `CUR-AA-XXXXXX` com o ano atual.
 :::
 
 ## Dois modos de curadoria

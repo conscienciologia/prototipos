@@ -222,10 +222,10 @@ revisão
 ficha no GitHub
 ```
 
-Exemplo de nome de ficha:
+O identificador nomeia a pasta da curadoria:
 
 ```text
-CUR-26-K7M4QX-guia-ia-ufmg.md
+CUR-26-K7M4QX/
 ```
 
 O material original não precisa ser renomeado.
@@ -258,11 +258,9 @@ Por isso, o identificador pertence ao **processo de curadoria**.
 
 ## 7.3. Papel da IA
 
-Ao iniciar uma curadoria, a IA deve verificar se existe identificador.
+Ao iniciar uma curadoria, o participante deve pedir para a IA sugerir o identificador.
 
-Se não houver, a própria IA pode gerar um: sortear 6 caracteres do alfabeto definido acima e compor `CUR-AA-XXXXXX` com o ano atual.
-
-Diferente do formato numérico sequencial anterior, isso **não exige consultar fichas existentes nem o repositório** — a chance de colisão é desprezível por construção. Se, ainda assim, dois códigos iguais aparecerem por coincidência, corrija manualmente no momento da revisão; não é preciso um mecanismo de prevenção.
+A IA sorteia 6 caracteres do alfabeto definido acima e compõe `CUR-AA-XXXXXX` com o ano atual. Esse identificador nomeia a pasta onde a curadoria será organizada.
 
 ---
 

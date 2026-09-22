@@ -1,5 +1,7 @@
 ---
 
+id:
+modo:
 status: em-analise
 tipo:
 titulo:
