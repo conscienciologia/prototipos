@@ -7,6 +7,10 @@ objectives:
   - Escolher entre os modos "conteudo" e "registro-grupal"
 ---
 
+:::caution[Proposta em avaliação]
+O formato `CUR-AAAA-NNN` e os dois modos abaixo são hipóteses de trabalho, ainda sendo testadas — não um padrão fechado.
+:::
+
 ## Identificadores
 
 Toda curadoria que entra efetivamente em análise recebe um identificador estável — da **curadoria**, não do arquivo original:

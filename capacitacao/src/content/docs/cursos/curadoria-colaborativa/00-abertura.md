@@ -7,8 +7,12 @@ objectives:
   - Reconhecer os quatro ambientes do fluxo experimental
 ---
 
-:::note[Curso de uso interno do grupo]
-Este curso ensina a **usar** a proposta de curadoria que já está em `curadoria/` neste mesmo repositório — não é uma cópia dela. Sempre que possível, os detalhes completos ficam linkados na fonte, para não termos duas versões competindo como "oficial".
+**Público-alvo:** participantes do grupo de WhatsApp *"CIT/CEAEC - Curso Institucional de IA nas pesquisas conscienciológicas"*.
+
+:::caution[Isto é uma proposta, não uma decisão]
+Este curso inteiro — do início ao fim — descreve uma **proposta em avaliação pelo grupo**, não um processo já adotado. Nomes de campos, estados, papéis, identificadores: tudo pode mudar com o uso real. Onde algo parecer definitivo demais, é falha de redação, não intenção.
+
+Também não é uma cópia da proposta original: ensina a **usar** o que já está em `curadoria/` neste mesmo repositório, sempre linkando para lá como fonte — para não termos duas versões competindo como "oficial".
 :::
 
 ## O problema
@@ -28,6 +32,16 @@ e discussão               material a analisar     (com auxílio de IA)      con
 ```
 
 Cada ambiente responde a uma pergunta diferente — isso volta na próxima aula.
+
+## Onde fica o Inbox, na prática
+
+O Inbox é uma pasta no Google Drive. O link para ela está fixado na **descrição do grupo de WhatsApp** do CIT/CEAEC — abra o grupo, veja os dados do grupo, e o link estará lá.
+
+![Pasta "inbox" dentro da pasta compartilhada do curso no Google Drive](../../../../assets/curadoria/inbox-drive.png)
+
+:::tip[]
+Vale entrar na pasta agora, só para conhecer — não precisa fazer nada nela ainda. Lembre-se: colocar um material lá não é aprovação de nada, é só dizer "isto pode merecer análise" (mais sobre isso na próxima aula).
+:::
 
 ## O princípio que organiza tudo
 

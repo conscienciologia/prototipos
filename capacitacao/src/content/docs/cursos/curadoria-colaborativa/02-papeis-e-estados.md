@@ -7,6 +7,10 @@ objectives:
   - Reconhecer os sete estados e o que cada um significa
 ---
 
+:::caution[Proposta em avaliação]
+Papéis e estados aqui são a proposta atual — nomes e fluxo podem mudar conforme o grupo usa e ajusta.
+:::
+
 ## Papéis
 
 Não são cargos permanentes — a mesma pessoa pode ocupar mais de um papel na mesma curadoria.

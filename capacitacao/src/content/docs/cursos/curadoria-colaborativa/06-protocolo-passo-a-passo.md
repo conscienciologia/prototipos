@@ -7,6 +7,10 @@ objectives:
   - Saber onde consultar o texto completo de cada etapa
 ---
 
+:::caution[Proposta em avaliação]
+Estas 12 etapas são a sequência proposta hoje — não um procedimento fixo e imutável.
+:::
+
 O protocolo pede que a IA execute a análise **em etapas** — nunca gerar uma ficha completa a partir de leitura superficial.
 
 | # | Etapa | Em uma frase |

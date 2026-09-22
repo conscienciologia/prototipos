@@ -6,6 +6,10 @@ objectives:
   - Refletir sobre a própria experiência de uso do protocolo, não só sobre o conteúdo curado
 ---
 
+:::caution[Esta aula é sobre isso mesmo]
+Tudo que você praticou nas aulas anteriores é proposta, não veredito. Esta aula existe para você ajudar a mudá-la.
+:::
+
 Depois de fazer sua primeira curadoria (aula 7), pare um momento e responda para si mesmo:
 
 - **Utilidade** — a curadoria acrescentou algo além de um resumo?

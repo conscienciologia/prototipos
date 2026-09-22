@@ -7,6 +7,10 @@ objectives:
   - Aplicar o checklist de revisão humana
 ---
 
+:::caution[Proposta em avaliação]
+O fluxo de compartilhamento e o checklist de revisão são a proposta atual, sujeita a mudar pelo próprio uso.
+:::
+
 ## Compartilhando no WhatsApp
 
 A mensagem não substitui a ficha — é uma porta de entrada para a discussão. Use o [template oficial](https://github.com/conscienciologia/prototipos/blob/main/curadoria/templates/whatsapp.md) e inclua o identificador (`CUR-2026-001`) para facilitar retomar a conversa depois.

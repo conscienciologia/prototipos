@@ -7,6 +7,10 @@ objectives:
   - Evitar transformar uma discussão em decisão sem evidência
 ---
 
+:::caution[Proposta em avaliação]
+Esta distinção de sete categorias é parte da proposta em teste — pode ganhar ajustes conforme aparecerem casos reais de uso.
+:::
+
 Quando o modo é `registro-grupal` (reunião, transcrição, conversa de WhatsApp), a IA precisa distinguir obrigatoriamente sete categorias:
 
 | Categoria | O que é |

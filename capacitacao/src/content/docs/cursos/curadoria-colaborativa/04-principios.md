@@ -7,6 +7,10 @@ objectives:
   - Reconhecer quando registrar "não identificado" em vez de completar por plausibilidade
 ---
 
+:::caution[Proposta em avaliação]
+Estes princípios orientam a proposta atual do grupo — não são regras definitivas, e podem ser revistos com o uso.
+:::
+
 ## Rastreabilidade
 
 Sempre que possível, deve dar para voltar da ficha à fonte original — página, seção, minuto do vídeo, trecho, capítulo, mensagem, data. Uma síntese não substitui a fonte.

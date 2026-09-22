@@ -7,6 +7,10 @@ objectives:
   - Listar o que pode entrar no processo
 ---
 
+:::caution[Proposta em avaliação]
+Os critérios desta aula — o que pode entrar no processo, o que a presença no Inbox significa — são a proposta atual do grupo, não regras fixas.
+:::
+
 ## Curadoria não significa certificação
 
 Esta é a distinção mais fácil de confundir. Incluir um conteúdo na base **não** significa que o grupo:

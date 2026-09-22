@@ -7,6 +7,10 @@ objectives:
   - Usar o prompt de interação recomendada com a IA
 ---
 
+:::caution[Proposta em avaliação]
+O prompt e o checklist abaixo são a versão atual da proposta — pratique com essa consciência, e registre o que não funcionou bem (aula 9).
+:::
+
 Este é o bloco prático. Separe 15 minutos e faça de verdade — não é um exercício hipotético, o resultado pode virar uma curadoria real do grupo.
 
 :::note[Passo a passo]
