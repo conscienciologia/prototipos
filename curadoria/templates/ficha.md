@@ -365,9 +365,76 @@ Registre apenas eventos relevantes.
 
 >
 
----
+## 20. Avaliação do processo experimental
 
-## 20. Nota metodológica
+Esta seção avalia o **processo de curadoria**, e não o conteúdo curado.
+
+Ela faz parte da fase experimental descrita na [proposta do projeto](https://github.com/conscienciologia/prototipos/blob/main/curadoria/PROPOSTA.md) e tem como objetivo ajudar o grupo a aperfeiçoar o protocolo e os templates a partir da experiência real de uso.
+
+### Utilidade
+
+A ficha acrescentou valor além de um resumo simples?
+
+>
+
+### Uso da IA
+
+Em que a IA foi especialmente útil?
+
+>
+
+Em que a IA errou, confundiu, simplificou excessivamente ou exigiu correção?
+
+>
+
+### Esforço
+
+O processo pareceu:
+
+* [ ] Muito simples
+* [ ] Adequado
+* [ ] Um pouco burocrático
+* [ ] Excessivamente burocrático
+
+### Template
+
+Que campos da ficha foram especialmente úteis?
+
+>
+
+Que campos pareceram desnecessários ou excessivos?
+
+>
+
+Faltou algum campo ou informação importante?
+
+>
+
+### Protocolo
+
+Houve alguma instrução difícil de compreender ou aplicar?
+
+>
+
+### Discussão e colaboração
+
+A pré-ficha ou a mensagem compartilhada ajudou a produzir uma discussão mais objetiva ou produtiva no grupo?
+
+>
+
+### Reutilização
+
+Esta ficha parece ter potencial de ser útil novamente em pesquisas, cursos, oficinas, debates ou outras atividades?
+
+>
+
+### Sugestões
+
+O que você mudaria antes da próxima curadoria?
+
+>
+
+## 21. Nota metodológica
 
 Esta ficha constitui um instrumento de **curadoria humana assistida por Inteligência Artificial**.
 
