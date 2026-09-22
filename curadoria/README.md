@@ -15,6 +15,10 @@ Use:
 
 [Protocolo de Curadoria](./PROTOCOLO.md)
 
+## Curso que ensina a usar isto na prática
+
+https://conscienciologia.github.io/prototipos/cursos/curadoria-colaborativa/00-abertura/
+
 ## Templates
 
 - [Ficha de Curadoria](./templates/ficha.md)

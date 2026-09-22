@@ -4,12 +4,18 @@ Segunda frente do repositório [`prototipos`](../), ao lado de [`curadoria/`](..
 
 > Protótipo para aprender, não plataforma para impor. Nada aqui é definitivo — inclusive a escolha de Astro/Starlight/GitHub Pages.
 
+🔗 **Site publicado:** https://conscienciologia.github.io/prototipos/
+
 ## O que está publicado
 
-Dois cursos, nenhum inventado como demonstração:
+Três cursos, nenhum inventado como demonstração:
 
 1. **"Uso Cosmoético da Inteligência Artificial (LLMs)"**, de Túlio Vieira de Souza — em revisão pelo grupo desde a reunião de 17/09 (ver [ata da reunião](https://docs.google.com/document/d/1luk-brQJmYVWkmbry9FOtXa6dyENUqCDL9TQRo-v1ec)).
+   https://conscienciologia.github.io/prototipos/cursos/cosmoetica-ia/00-abertura/
 2. **"Curadoria Colaborativa" (uso interno)** — ensina a usar o [Protocolo de Curadoria](../curadoria/PROTOCOLO.md) na prática (identificadores, modos, papéis, estados) e termina com uma curadoria real, não hipotética. Não duplica `curadoria/PROPOSTA.md`/`PROTOCOLO.md` — linka pra eles como fonte, para não ter duas versões "oficiais" competindo.
+   https://conscienciologia.github.io/prototipos/cursos/curadoria-colaborativa/00-abertura/
+3. **"Área de prática: Editar com GitHub"** — conta no GitHub, conectar a IA, e exercícios de dificuldade crescente até criar e publicar um curso novo. Publicada normalmente (não é um protótipo escondido) — qualquer página pode ser editada e aprimorada livremente.
+   https://conscienciologia.github.io/prototipos/cursos/editar-com-github/00-criar-conta/
 
 Além dos cursos, dois recursos de referência: o **Código Pessoal de Uso Cosmoético da IA** e o **Banco de Prompts Cosmoéticos**.
 
@@ -24,10 +30,7 @@ npm run preview  # serve o build de produção localmente
 
 ## Deploy
 
-`.github/workflows/deploy-capacitacao.yml` (na raiz do repo) publica `dist/` em GitHub Pages a cada push em `main` que toque esta pasta. **Ainda não está ativado** — falta, no repositório GitHub:
-
-1. Settings → Pages → Source: "GitHub Actions".
-2. Rodar o workflow uma vez (push ou `workflow_dispatch`).
+`.github/workflows/deploy-capacitacao.yml` (na raiz do repo) publica `dist/` em GitHub Pages a cada push em `main` que toque esta pasta. Já está ativado (Settings → Pages → Source: "GitHub Actions") — um push nesta pasta é suficiente, o deploy leva de 1 a 5 minutos.
 
 ## O que falta para ativar (decisões propositalmente deixadas em aberto)
 

@@ -2,6 +2,8 @@
 
 Protótipos demonstráveis do CIT/CEAEC — feitos para experimentar, criticar e evoluir junto com o grupo, não para impor uma plataforma pronta.
 
+🔗 **Acesse:** https://conscienciologia.github.io/prototipos/
+
 Na reunião de 07/09 o grupo identificou duas frentes complementares para o projeto do curso de IA. Cada uma tem seu protótipo aqui:
 
 - **[`curadoria/`](curadoria/)** — organizar o conteúdo disperso (artigos, vídeos, discussões) em conhecimento curado, com auxílio de IA e revisão humana. Ver [PROPOSTA.md](curadoria/PROPOSTA.md).
