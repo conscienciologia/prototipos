@@ -16,7 +16,7 @@ Depois de fazer sua primeira curadoria (aula 7), pare um momento e responda para
 - **Esforço** — o processo foi proporcional ao valor gerado, ou pareceu burocrático?
 - **IA** — em que ela ajudou mais? Em que ela atrapalhou ou errou?
 - **Ficha** — que campos foram úteis? Quais pareceram excessivos? Faltou algum?
-- **Identificador** — a numeração `CUR-AAAA-NNN` ajudou ou virou burocracia?
+- **Identificador** — o código `CUR-AA-XXXXXX` ajudou ou virou burocracia?
 - **Modo de curadoria** — a distinção `conteudo` / `registro-grupal` fez sentido na prática?
 - **Grupo** — o material favoreceu uma discussão melhor?
 - **Reutilização** — é provável que essa ficha seja útil de novo?

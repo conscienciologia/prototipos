@@ -13,7 +13,7 @@ O fluxo de compartilhamento e o checklist de revisão são a proposta atual, suj
 
 ## Compartilhando no WhatsApp
 
-A mensagem não substitui a ficha — é uma porta de entrada para a discussão. Use o [template oficial](https://github.com/conscienciologia/prototipos/blob/main/curadoria/templates/whatsapp.md) e inclua o identificador (`CUR-2026-001`) para facilitar retomar a conversa depois.
+A mensagem não substitui a ficha — é uma porta de entrada para a discussão. Use o [template oficial](https://github.com/conscienciologia/prototipos/blob/main/curadoria/templates/whatsapp.md) e inclua o identificador (`CUR-26-K7M4QX`) para facilitar retomar a conversa depois.
 
 ```text
 conteúdo

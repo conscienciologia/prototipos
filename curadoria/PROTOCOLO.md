@@ -187,15 +187,23 @@ O identificador refere-se à **curadoria**, e não necessariamente ao arquivo or
 Formato inicial:
 
 ```text
-CUR-AAAA-NNN
+CUR-AA-XXXXXX
 ```
+
+`AA` é o ano com dois dígitos. `XXXXXX` são 6 caracteres sorteados do alfabeto abaixo — sem consultar fichas existentes, sem contador, sem coordenação com ninguém:
+
+```text
+0123456789ABCDEFGHJKMNPQRSTVWXYZ
+```
+
+Esse alfabeto (32 símbolos) exclui de propósito as letras `I`, `L`, `O`, `U` — fáceis de confundir com `1` e `0` quando o código circula em texto de WhatsApp. Com 6 caracteres desse conjunto (mais de 1 bilhão de combinações), a chance de duas curadorias baterem no mesmo código é desprezível mesmo com milhares de curadorias — não é necessário verificar se já existe.
 
 Exemplos:
 
 ```text
-CUR-2026-001
-CUR-2026-002
-CUR-2026-003
+CUR-26-K7M4QX
+CUR-26-7HNPXA
+CUR-26-3RT9WM
 ```
 
 O identificador acompanha a curadoria durante todo o processo:
@@ -203,7 +211,7 @@ O identificador acompanha a curadoria durante todo o processo:
 ```text
 material no Inbox
         ↓
-CUR-2026-001
+CUR-26-K7M4QX
         ↓
 pré-ficha
         ↓
@@ -217,7 +225,7 @@ ficha no GitHub
 Exemplo de nome de ficha:
 
 ```text
-CUR-2026-001-guia-ia-ufmg.md
+CUR-26-K7M4QX-guia-ia-ufmg.md
 ```
 
 O material original não precisa ser renomeado.
@@ -228,11 +236,11 @@ O identificador permite referências simples durante a colaboração.
 
 Exemplos:
 
-> Estou trabalhando na CUR-2026-003.
+> Estou trabalhando na CUR-26-K7M4QX.
 
-> Acrescentei um contraponto na CUR-2026-003.
+> Acrescentei um contraponto na CUR-26-K7M4QX.
 
-> A CUR-2026-003 continua em revisão.
+> A CUR-26-K7M4QX continua em revisão.
 
 Isso evita depender de títulos longos, duplicados ou ambíguos.
 
@@ -252,13 +260,9 @@ Por isso, o identificador pertence ao **processo de curadoria**.
 
 Ao iniciar uma curadoria, a IA deve verificar se existe identificador.
 
-Se não houver, deve informar:
+Se não houver, a própria IA pode gerar um: sortear 6 caracteres do alfabeto definido acima e compor `CUR-AA-XXXXXX` com o ano atual.
 
-> **Esta curadoria ainda não possui identificador. Antes de incorporá-la ao repositório, deverá ser atribuído um ID no formato `CUR-AAAA-NNN`.**
-
-A IA não deve inventar o próximo número quando não tiver acesso às fichas existentes.
-
-Nesse caso, deve solicitar ao participante ou consultar o repositório, quando tiver acesso.
+Diferente do formato numérico sequencial anterior, isso **não exige consultar fichas existentes nem o repositório** — a chance de colisão é desprezível por construção. Se, ainda assim, dois códigos iguais aparecerem por coincidência, corrija manualmente no momento da revisão; não é preciso um mecanismo de prevenção.
 
 ---
 
@@ -1117,7 +1121,7 @@ status:
 Exemplo:
 
 ```yaml
-id: CUR-2026-001
+id: CUR-26-K7M4QX
 modo: conteudo
 status: em-analise
 ```
@@ -1125,7 +1129,7 @@ status: em-analise
 ou:
 
 ```yaml
-id: CUR-2026-002
+id: CUR-26-7HNPXA
 modo: registro-grupal
 status: em-revisao
 ```
@@ -1171,7 +1175,7 @@ Sua finalidade é permitir que o grupo compreenda rapidamente:
 Sempre que possível, inclua o identificador:
 
 ```text
-CUR-2026-001
+CUR-26-K7M4QX
 ```
 
 Isso facilita a retomada posterior da conversa.

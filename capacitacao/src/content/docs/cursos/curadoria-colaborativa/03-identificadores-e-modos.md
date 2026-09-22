@@ -1,14 +1,14 @@
 ---
 title: 3. Identificadores e modos
-description: O formato CUR-AAAA-NNN e a diferença entre curar um conteúdo e curar uma discussão do grupo.
+description: O formato CUR-AA-XXXXXX e a diferença entre curar um conteúdo e curar uma discussão do grupo.
 duration_minutes: 6
 objectives:
-  - Atribuir um identificador CUR-AAAA-NNN a uma curadoria
+  - Atribuir um identificador CUR-AA-XXXXXX a uma curadoria
   - Escolher entre os modos "conteudo" e "registro-grupal"
 ---
 
 :::caution[Proposta em avaliação]
-O formato `CUR-AAAA-NNN` e os dois modos abaixo são hipóteses de trabalho, ainda sendo testadas — não um padrão fechado.
+O formato `CUR-AA-XXXXXX` e os dois modos abaixo são hipóteses de trabalho, ainda sendo testadas — não um padrão fechado.
 :::
 
 ## Identificadores
@@ -16,15 +16,21 @@ O formato `CUR-AAAA-NNN` e os dois modos abaixo são hipóteses de trabalho, ain
 Toda curadoria que entra efetivamente em análise recebe um identificador estável — da **curadoria**, não do arquivo original:
 
 ```text
-CUR-2026-001
-CUR-2026-002
-CUR-2026-003
+CUR-26-K7M4QX
+CUR-26-7HNPXA
+CUR-26-3RT9WM
 ```
 
-Isso permite referências simples na conversa: *"Estou trabalhando na CUR-2026-003"*, sem depender de títulos longos ou ambíguos. Um documento pode alimentar mais de uma curadoria, e uma curadoria pode se basear em vários documentos — o identificador pertence ao **processo**, não ao arquivo.
+`AA` é o ano com dois dígitos. Os 6 caracteres depois são sorteados do alfabeto `0123456789ABCDEFGHJKMNPQRSTVWXYZ` — sem os caracteres `I`, `L`, `O`, `U`, que confundem fácil com `1` e `0` num texto de WhatsApp.
+
+:::tip[Por que não é um número sequencial]
+Um formato tipo `CUR-2026-001` parece mais simples, mas exige que alguém — pessoa ou IA — **consulte todas as fichas existentes** antes de criar uma nova, só para saber qual é o próximo número. Com 6 caracteres sorteados desse alfabeto (mais de 1 bilhão de combinações possíveis), a chance de duas curadorias baterem no mesmo código é desprezível — **não precisa consultar nada antes de gerar um novo**.
+:::
+
+Isso permite referências simples na conversa: *"Estou trabalhando na CUR-26-K7M4QX"*, sem depender de títulos longos ou ambíguos. Um documento pode alimentar mais de uma curadoria, e uma curadoria pode se basear em vários documentos — o identificador pertence ao **processo**, não ao arquivo.
 
 :::caution[Papel da IA aqui]
-Se não houver identificador, a IA deve avisar e pedir para você atribuir um — nunca inventar o próximo número sem acesso às fichas existentes.
+Se não houver identificador, a própria IA pode gerar um na hora — sortear os 6 caracteres e compor `CUR-AA-XXXXXX` com o ano atual. Não precisa checar se já existe.
 :::
 
 ## Dois modos de curadoria
@@ -39,7 +45,7 @@ Antes de analisar, identifique a natureza predominante do material:
 O modo vai na ficha:
 
 ```yaml
-id: CUR-2026-001
+id: CUR-26-K7M4QX
 modo: conteudo
 status: em-analise
 ```
