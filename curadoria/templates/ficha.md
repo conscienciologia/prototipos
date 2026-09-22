@@ -16,6 +16,9 @@ tags: []
 
 # Ficha de Curadoria
 
+> Esta ficha faz parte do Protótipo de Curadoria Colaborativa Assistida por IA.
+> [Conheça a proposta](https://github.com/conscienciologia/prototipos/blob/main/curadoria/PROPOSTA.md)
+
 ## 1. Identificação do conteúdo
 
 **Título:**
