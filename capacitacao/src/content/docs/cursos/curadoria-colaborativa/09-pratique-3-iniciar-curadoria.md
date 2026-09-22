@@ -84,7 +84,9 @@ A pré-ficha resultante fica como `🔵 EM ANÁLISE` ou `🟣 EM REVISÃO` — n
 
 Salve o arquivo gerado no Drive, na pasta `pré-curadoria/<identificador>/`.
 
-## Anuncie com a IA como assistente
+## Anuncie no grupo
+
+Anunciar não é formalidade — é o que transforma uma pré-ficha individual em objeto de discussão coletiva. Sem esse passo, ninguém mais no grupo saberia que aquela curadoria existe, e ela ficaria parada em `🔵 EM ANÁLISE` indefinidamente. É o anúncio que convida outras pessoas a aplicar o princípio da descrença sobre o seu próprio trabalho — é assim que uma curadoria avança para `🟣 EM REVISÃO` e, eventualmente, `🟢 CURADO`.
 
 Peça para a mesma IA redigir o anúncio — não precisa escrever a mensagem manualmente.
 
