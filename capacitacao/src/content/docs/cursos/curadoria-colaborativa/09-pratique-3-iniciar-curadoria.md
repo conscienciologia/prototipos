@@ -1,14 +1,15 @@
 ---
-title: 9. Pratique 3 — Crie e compartilhe uma ficha
-description: Gerar a pré-ficha do recurso copiado, salvar em pré-curadoria e anunciar no grupo.
-duration_minutes: 15
+title: 9. Pratique 3 — Inicie a curadoria
+description: Gerar a pré-ficha do recurso copiado, salvar em pré-curadoria, anunciar no grupo e pedir revisão.
+duration_minutes: 20
 objectives:
   - Gerar uma pré-ficha completa a partir do recurso copiado no Inbox
   - Salvar o arquivo na pasta pré-curadoria/<ID> correta
+  - Anunciar a curadoria no grupo usando a IA, e pedir revisão
 ---
 
 :::caution[Proposta em avaliação]
-Esta é a **atividade 3 de 4** — a mais longa. Separe 15 minutos e faça de verdade: o resultado pode virar uma curadoria real do grupo.
+Esta é a **atividade 3 de 4** — a mais longa. Separe 20 minutos e faça de verdade: o resultado pode virar uma curadoria real do grupo.
 :::
 
 :::note[Passo a passo]
@@ -17,6 +18,7 @@ Esta é a **atividade 3 de 4** — a mais longa. Separe 15 minutos e faça de ve
 3. **Siga a conversa** — a IA deve pedir a motivação se você não tiver explicado, avisar o que não conseguiu acessar, e não inventar nada.
 4. **Gere a pré-ficha** usando o [template oficial](https://github.com/conscienciologia/prototipos/blob/main/curadoria/templates/ficha.md).
 5. **Salve o arquivo** na pasta `pré-curadoria/<identificador>/` no Drive.
+6. **Anuncie no grupo e peça revisão** — veja como, logo abaixo.
 :::
 
 ## O prompt de abertura
@@ -78,8 +80,39 @@ Confirme (lista oficial, [PROTOCOLO.md §27](https://github.com/conscienciologia
 
 A pré-ficha resultante fica como `🔵 EM ANÁLISE` ou `🟣 EM REVISÃO` — nunca `🟢 CURADO` direto da IA.
 
-## Salvando e anunciando
+## Salve o arquivo
 
 Salve o arquivo gerado no Drive, na pasta `pré-curadoria/<identificador>/`.
 
-Depois de salvo, é hora de anunciar no grupo que há uma curadoria nova para revisar — isso é o assunto inteiro da [aula 11, Compartilhar e revisar](../11-compartilhar-e-revisar/): lá tem o passo a passo, incluindo o prompt para a IA escrever o anúncio por você.
+## Anuncie com a IA como assistente
+
+Peça para a mesma IA redigir o anúncio — não precisa escrever a mensagem manualmente.
+
+```text
+Com base na ficha de curadoria abaixo, gere uma mensagem para WhatsApp
+seguindo o template oficial.
+
+Regras:
+
+- seja conciso;
+- preserve as diferenças entre fatos, interpretações e questões em aberto;
+- não acrescente informações que não estejam na ficha;
+- selecione no máximo 3 ideias principais;
+- selecione no máximo 2 pontos de atenção;
+- formule de 1 a 3 perguntas úteis para discussão;
+- não declare consenso, aprovação ou validação que não esteja registrada;
+- mantenha os links fornecidos;
+- utilize linguagem acessível aos integrantes do grupo.
+```
+
+Cole a ficha completa logo abaixo desse prompt. A IA vai seguir o [template oficial de WhatsApp](https://github.com/conscienciologia/prototipos/blob/main/curadoria/templates/whatsapp.md).
+
+Antes de enviar: releia a mensagem, confirme que o identificador (Ex: `CUR-26-K7M4QX`) está incluído, e poste no grupo.
+
+## Peça revisão explicitamente
+
+A mensagem sozinha não garante que alguém vá revisar. Depois de postar, peça diretamente — por exemplo:
+
+> Alguém topa revisar essa curadoria? Não precisa ser extenso, só olhar se a síntese bate com a fonte.
+
+O template já traz uma seção "❓ Questões para o grupo" que ajuda a puxar comentários, mas o pedido de revisão em si vale fazer de forma direta, não só implícita nas perguntas.

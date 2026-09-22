@@ -1,5 +1,5 @@
 ---
-title: 12. O protocolo também está sendo avaliado
+title: 11. O protocolo também está sendo avaliado
 description: Reflexão final — o processo de curadoria é, ele mesmo, objeto do experimento.
 duration_minutes: 4
 objectives:
