@@ -222,10 +222,10 @@ revisão
 ficha no GitHub
 ```
 
-O identificador nomeia a pasta da curadoria:
+O identificador nomeia a pasta da curadoria, dentro de `pré-curadoria/` no Drive:
 
 ```text
-CUR-26-K7M4QX/
+pré-curadoria/CUR-26-K7M4QX/
 ```
 
 O material original não precisa ser renomeado.
@@ -1131,6 +1131,8 @@ id: CUR-26-7HNPXA
 modo: registro-grupal
 status: em-revisao
 ```
+
+Salve o arquivo gerado no Drive, na pasta `pré-curadoria/<identificador>/`.
 
 A ficha gerada pela IA deve permanecer com status:
 

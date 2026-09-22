@@ -1,5 +1,5 @@
 ---
-title: 9. O protocolo também está sendo avaliado
+title: 12. O protocolo também está sendo avaliado
 description: Reflexão final — o processo de curadoria é, ele mesmo, objeto do experimento.
 duration_minutes: 4
 objectives:
@@ -10,7 +10,7 @@ objectives:
 Tudo que você praticou nas aulas anteriores é proposta, não veredito. Esta aula existe para você ajudar a mudá-la.
 :::
 
-Depois de fazer sua primeira curadoria (aula 7), pare um momento e responda para si mesmo:
+Depois de completar as quatro atividades práticas (aulas 7 a 10), pare um momento e responda para si mesmo:
 
 - **Utilidade** — a curadoria acrescentou algo além de um resumo?
 - **Esforço** — o processo foi proporcional ao valor gerado, ou pareceu burocrático?

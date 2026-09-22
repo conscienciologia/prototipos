@@ -1,24 +1,22 @@
 ---
-title: 7. Pratique agora
-description: Faça sua primeira curadoria de verdade, com um conteúdo real — o componente de exercício deste curso.
+title: 9. Pratique 3 — Crie e compartilhe uma ficha
+description: Gerar a pré-ficha do recurso copiado, salvar em pré-curadoria e anunciar no grupo.
 duration_minutes: 15
 objectives:
-  - Executar uma curadoria completa em um material real, do início à pré-ficha
-  - Usar o prompt de interação recomendada com a IA
+  - Gerar uma pré-ficha completa a partir do recurso copiado no Inbox
+  - Salvar o arquivo na pasta pré-curadoria/<ID> correta
 ---
 
 :::caution[Proposta em avaliação]
-O prompt e o checklist abaixo são a versão atual da proposta — pratique com essa consciência, e registre o que não funcionou bem (aula 9).
+Esta é a **atividade 3 de 4** — a mais longa. Separe 15 minutos e faça de verdade: o resultado pode virar uma curadoria real do grupo.
 :::
 
-Este é o bloco prático. Separe 15 minutos e faça de verdade — não é um exercício hipotético, o resultado pode virar uma curadoria real do grupo.
-
 :::note[Passo a passo]
-1. **Escolha um conteúdo real** que já circulou no grupo — um vídeo, artigo ou podcast do WhatsApp, ou uma das transcrições de reunião.
-2. **Abra a IA da sua preferência** (Claude, ChatGPT, Gemini — não precisa ser a mesma que todo mundo usa).
-3. **Cole o prompt abaixo**, ajustando o que estiver entre colchetes.
-4. **Siga a conversa** — a IA deve pedir a motivação se você não tiver explicado, avisar o que não conseguiu acessar, e não inventar nada.
-5. **Gere a pré-ficha** usando o [template oficial](https://github.com/conscienciologia/prototipos/blob/main/curadoria/templates/ficha.md).
+1. **Peça para a IA sugerir um identificador** — [aula 3](../03-identificadores-e-modos/): `CUR-AA-XXXXXX`.
+2. **Cole o prompt abaixo**, ajustando o que estiver entre colchetes, com o recurso que você copiou para o Inbox na atividade 2.
+3. **Siga a conversa** — a IA deve pedir a motivação se você não tiver explicado, avisar o que não conseguiu acessar, e não inventar nada.
+4. **Gere a pré-ficha** usando o [template oficial](https://github.com/conscienciologia/prototipos/blob/main/curadoria/templates/ficha.md).
+5. **Salve o arquivo** na pasta `pré-curadoria/<identificador>/` no Drive.
 :::
 
 ## O prompt de abertura
@@ -79,3 +77,9 @@ Confirme (lista oficial, [PROTOCOLO.md §27](https://github.com/conscienciologia
 - [ ] A ficha permanece como pré-ficha até revisão humana.
 
 A pré-ficha resultante fica como `🔵 EM ANÁLISE` ou `🟣 EM REVISÃO` — nunca `🟢 CURADO` direto da IA.
+
+## Salvando e anunciando
+
+Salve o arquivo gerado no Drive, na pasta `pré-curadoria/<identificador>/`.
+
+Depois de salvo, é hora de anunciar no grupo que há uma curadoria nova para revisar — isso é o assunto inteiro da [aula 11, Compartilhar e revisar](../11-compartilhar-e-revisar/): lá tem o passo a passo, incluindo o prompt para a IA escrever o anúncio por você.
