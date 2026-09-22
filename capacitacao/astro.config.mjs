@@ -47,12 +47,10 @@ export default defineConfig({
 					label: 'Curso interno: Curadoria Colaborativa',
 					items: [{ autogenerate: { directory: 'cursos/curadoria-colaborativa' } }],
 				},
-				// "Editar com GitHub" (cursos/editar-com-github/) ainda não entra
-				// aqui: com todas as páginas em draft: true, um grupo de sidebar
-				// apontando pra ele apareceria vazio na produção (o grupo em si
-				// não é filtrado, só os itens). Acrescentar quando as páginas
-				// saírem do rascunho. Enquanto isso, acessível via `npm run dev`
-				// pelo caminho /cursos/editar-com-github/00-criar-conta/.
+				{
+					label: 'Área de prática: Editar com GitHub',
+					items: [{ autogenerate: { directory: 'cursos/editar-com-github' } }],
+				},
 				{
 					label: 'Recursos',
 					items: [{ autogenerate: { directory: 'recursos' } }],

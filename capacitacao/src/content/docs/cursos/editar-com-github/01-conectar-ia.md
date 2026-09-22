@@ -1,7 +1,6 @@
 ---
 title: 2. Conecte o GitHub à sua IA
 description: Dar para a IA que você já usa acesso para ler e sugerir mudanças no repositório.
-draft: true
 duration_minutes: 8
 objectives:
   - Conectar a IA que você usa ao GitHub, ou entender a alternativa sem conexão

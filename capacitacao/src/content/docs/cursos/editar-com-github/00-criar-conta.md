@@ -1,14 +1,13 @@
 ---
 title: 1. Crie sua conta no GitHub
 description: O primeiro passo para poder editar qualquer aula deste site.
-draft: true
 duration_minutes: 5
 objectives:
   - Criar uma conta no GitHub
 ---
 
-:::note[Curso em rascunho]
-Esta aula existe para que qualquer pessoa do grupo consiga sugerir uma mudança nos cursos publicados aqui — sem precisar aprender Git. Ainda está sendo escrita; por isso não aparece no site publicado por enquanto.
+:::note[Área de prática]
+Este curso existe para qualquer pessoa do grupo experimentar, na prática, sugerir uma mudança nos cursos publicados aqui — sem precisar aprender Git antes. As páginas seguintes (Área 1, Área 2 e o Desafio) são para você alterar e testar livremente.
 :::
 
 ## O que é o GitHub, rapidamente

@@ -1,7 +1,6 @@
 ---
-title: 3. Pratique — peça uma mudança de verdade
-description: Sugerir uma alteração pequena e conferir o resultado publicado.
-draft: true
+title: 3. Área 1 — Altere uma frase num curso
+description: Sugerir uma alteração pequena num dos cursos e conferir o resultado publicado.
 duration_minutes: 12
 objectives:
   - Sugerir e aplicar uma pequena mudança real em uma aula
@@ -49,4 +48,6 @@ Abra `conscienciologia.github.io/prototipos/` depois desse tempo e confira: a mu
 
 ## Se algo não funcionou
 
-Sem problema — é exatamente para isso que existe este curso em rascunho. Anote o que travou (a IA não conseguiu, o editor confundiu, não achou o botão certo...) e traga para o grupo. Esse tipo de dificuldade é informação tão útil quanto a mudança em si.
+Sem problema — é exatamente para isso que esta área de prática existe. Anote o que travou (a IA não conseguiu, o editor confundiu, não achou o botão certo...) e traga para o grupo. Esse tipo de dificuldade é informação tão útil quanto a mudança em si.
+
+Quando terminar aqui, a [Área 2](../03-area-2-protocolo/) sobe o nível de dificuldade: editar algo que aparece em mais de um lugar do repositório.
