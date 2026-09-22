@@ -21,7 +21,8 @@ Este é o bloco prático. Separe 15 minutos e faça de verdade — não é um ex
 
 ```text
 Quero realizar uma curadoria utilizando o Protocolo de Curadoria
-Colaborativa Assistida por IA.
+Colaborativa Assistida por IA:
+https://github.com/conscienciologia/prototipos/blob/main/curadoria/PROTOCOLO.md
 
 Antes de começar:
 
@@ -53,7 +54,7 @@ https://github.com/conscienciologia/prototipos/blob/main/curadoria/templates/fic
 ```
 
 :::caution[]
-Cole também o texto do [Protocolo completo](https://github.com/conscienciologia/prototipos/blob/main/curadoria/PROTOCOLO.md) na conversa, ou dê à IA acesso ao link — sem isso, ela não tem como seguir as etapas.
+O link do protocolo já está no prompt, mas nem toda IA consegue abrir links sozinha. Se a sua não conseguir, cole também o texto do [Protocolo completo](https://github.com/conscienciologia/prototipos/blob/main/curadoria/PROTOCOLO.md) na conversa — sem isso, ela não tem como seguir as etapas.
 :::
 
 ## Antes de considerar pronto para revisão
