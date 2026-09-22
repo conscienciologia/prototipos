@@ -4,10 +4,11 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-	// Protótipo hospedado em conscienciologia.github.io/prototipos/capacitacao/
-	// (repositório de protótipos do grupo — este é o segundo, ao lado de curadoria/).
+	// GitHub Pages de projeto publica na raiz do repositório
+	// (conscienciologia.github.io/prototipos/), não em /prototipos/capacitacao/ —
+	// o artefato do workflow vira o conteúdo inteiro de dist/.
 	site: 'https://conscienciologia.github.io',
-	base: '/prototipos/capacitacao',
+	base: '/prototipos',
 	integrations: [
 		starlight({
 			title: 'Capacitação em IA',

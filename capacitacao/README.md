@@ -14,7 +14,7 @@ Além do curso, dois recursos de referência: o **Código Pessoal de Uso Cosmoé
 
 ```sh
 npm install
-npm run dev      # http://localhost:4321/prototipos/capacitacao/
+npm run dev      # http://localhost:4321/prototipos/
 npm run build    # gera ./dist
 npm run preview  # serve o build de produção localmente
 ```
@@ -29,7 +29,7 @@ npm run preview  # serve o build de produção localmente
 ## O que falta para ativar (decisões propositalmente deixadas em aberto)
 
 - **Comentários (Giscus):** infraestrutura não incluída ainda. Exige habilitar GitHub Discussions no repo e configurar em [giscus.app](https://giscus.app) — deixado para decisão do grupo sobre se/onde queremos comentários por aula.
-- **Domínio próprio:** hoje aponta para `conscienciologia.github.io/prototipos/capacitacao/`. Trocar por domínio próprio é só mudar `site`/`base` em `astro.config.mjs`.
+- **Domínio próprio:** hoje aponta para `conscienciologia.github.io/prototipos/`. Trocar por domínio próprio é só mudar `site`/`base` em `astro.config.mjs`.
 - **"Sugerir melhoria":** cada página já tem link "Edit page" apontando pro GitHub Web Editor (via `editLink` no `astro.config.mjs`). Ainda não decidimos se isso é suficiente ou se queremos algo tipo GitHub Issues.
 
 ## Schema de frontmatter usado
